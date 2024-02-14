@@ -5,7 +5,7 @@ class Gno < Formula
     sha256 "e79738762f35c4b8b8d29029c91271c5f03298e241954d36478ee3df5da880c5"
   
     def install
-      bin.install "gno" # or any other files you need to install
+      bin.install "gno" 
     end
   
     test do
