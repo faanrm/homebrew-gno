@@ -1,8 +1,8 @@
 class Gno < Formula
     desc "Description of your package"
     homepage "https://github.com/faanrm/go-node"
-    url "https://github.com/faanrm/go-node/releases/download/v0.0.1/gno_v0.0.1_linux_386.zip"
-    sha256 "91f45f1305346e903c5e6d76c2f9f827150ee49b73be0e7c522d3d32ba017f23"
+    url "https://github.com/faanrm/go-node/releases/download/v0.1.1/gno_v0.1.1_linux_386.zip"
+    sha256 "e79738762f35c4b8b8d29029c91271c5f03298e241954d36478ee3df5da880c5"
   
     def install
       bin.install "gno" # or any other files you need to install
