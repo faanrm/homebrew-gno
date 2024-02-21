@@ -1,8 +1,8 @@
 class Gno < Formula
-    desc "Description of your package"
+    desc "GNo is go - tools to generate node project"
     homepage "https://github.com/faanrm/go-node"
-    url "https://github.com/faanrm/go-node/releases/download/v0.1.1/gno_v0.1.1_linux_386.zip"
-    sha256 "e79738762f35c4b8b8d29029c91271c5f03298e241954d36478ee3df5da880c5"
+    url "https://github.com/faanrm/go-node/releases/download/v0.1.2/gno_v0.1.2_linux_386.zip"
+    sha256 "2574e3ba467eea1238f8e7a3a4622dcd79d031cb972c9129963662afcfe9df50"
   
     def install
       bin.install "gno" 
